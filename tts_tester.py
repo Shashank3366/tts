@@ -11,8 +11,8 @@ from pathlib import Path
 
 # --- Configuration ---
 # API Keys (Provided by user)
-ELEVENLABS_API_KEY = "api"
-SARVAM_API_KEY = "api"
+ELEVENLABS_API_KEY = "custom api"
+SARVAM_API_KEY = "custom api"
 
 # URLs
 ELEVENLABS_URL = "https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
